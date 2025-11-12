@@ -1,2 +1,2 @@
-# THE-SOFWARE-LEAGUE
+The sofware league
 
